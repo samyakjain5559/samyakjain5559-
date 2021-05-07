@@ -1,1 +1,2 @@
-Hi My name is Samyak Jain and I love coding.
+Hi 
+My name is Samyak Jain and I love coding.
