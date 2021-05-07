@@ -4,7 +4,7 @@ My name is Samyak Jain and I love coding. I am a 4th-year Computer Engineering s
 # Current Job Title
 Software Developer at Bank of Montreal
 # Proficiency
-Database Management Software: MATLAB, Node.js, SQL\
+Database Management Languages: MATLAB, Node.js, SQL\
 Computer Languages: MySQL, C, C++, Java script, Java, Python, react-native, NodeJS, SQL query, Eiffel.\
 Simulation Software: AutoCAD\
 DevOps tools: Bamboo, Jenkins, Git, Docker, Kubernetes.
