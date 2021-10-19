@@ -11,14 +11,10 @@ DevOps tools: Bamboo, Jenkins, Git, Docker, Kubernetes.
 
 ### 📕 Some of My Work!
 <!-- PROJECTS:START -->
-- [Maven Projects](https://github.com/samyakjain5559/Maven_Projects)
-- [Docker Projects](https://github.com/samyakjain5559/Docker_Projects)
-- [Angular Projects](https://github.com/samyakjain5559/Angular_Projects)
-- [Node-JS and React-JS Prjects](https://github.com/samyakjain5559/nodeJS_reactJS_mysql_tweeter)
-- [Small Scale GPS Project](https://github.com/samyakjain5559/Small-Scale-GPS-C-Python-project)
-- [Eiffel Projects](https://github.com/samyakjain5559/Eiffel-Projects)
-- [Rest API and SpringBoot Projects](https://github.com/samyakjain5559/Rest_Database_Springboot_Project)
-- [OS Memory Management Projects](https://github.com/samyakjain5559/OS_Memory_Management)
+- [Maven Projects](https://github.com/samyakjain5559/Maven_Projects)          - [Docker Projects](https://github.com/samyakjain5559/Docker_Projects)
+- [Angular Projects](https://github.com/samyakjain5559/Angular_Projects)          - [Node-JS and React-JS Prjects](https://github.com/samyakjain5559/nodeJS_reactJS_mysql_tweeter)
+- [Small Scale GPS Project](https://github.com/samyakjain5559/Small-Scale-GPS-C-Python-project)         - [Eiffel Projects](https://github.com/samyakjain5559/Eiffel-Projects)
+- [Rest API and SpringBoot Projects](https://github.com/samyakjain5559/Rest_Database_Springboot_Project)          - [OS Memory Management Projects](https://github.com/samyakjain5559/OS_Memory_Management)
 <!-- PROJECTS:END -->
 
 
