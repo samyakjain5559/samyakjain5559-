@@ -25,10 +25,11 @@ DevOps tools: Bamboo, Jenkins, Git, Docker, Kubernetes.
 - [OS Memory Management Projects](https://github.com/samyakjain5559/OS_Memory_Management)
 <!-- PROJECTS:END -->
 
-### Programming Humor Specially for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2> ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin].
 
 [linkedin]: https://www.linkedin.com/in/samyak-jain/
+
+### Programming Humor Specially for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2> ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
