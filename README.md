@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Samyak
 ### 🧑🏽 About Me
-My name is Samyak Jain and I love coding. I am a 4th-year Computer Engineering student with a GPA of 3.8/4.0 in this current semester. I was awarded multiple awards for being among the top 1% of the class, which I am very proud of. I’ve worked with multiple project management tools such as MS Project, MS Access, and SharePoint. I am proficient in developing applications using programming languages such as Java, C++, C, react native, SAS,Python,Node.js, Appium, Verilog, ARM assembly language, and Java.
+My name is Samyak Jain and I love coding. I am a 4th-year Computer Engineering student with a GPA of 3.8/4.0 in this current semester. I was awarded multiple awards for being among the top 1% of the class, which I am very proud of. I’ve worked with multiple dev-ops tools such as Bamboo, Jenkins, Git, Docker, Kubernetes, Veracode, SonarQube. I am proficient in developing applications using programming languages such as Java, C++, C, react native, SAS,Python,Node.js, Appium, Verilog, ARM assembly language, and Java.
 ### 💻 Current Job Title
 Software Developer at Bank of Montreal
 ### 🧑🏽‍💻 Proficiency
@@ -12,6 +12,7 @@ DevOps tools: Bamboo, Jenkins, Git, Docker, Kubernetes.
 
 ### 📈 My Github Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=samyakjain5559&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=samyakjain5559)
 
 ### 📕 Some of My Work!
 <!-- PROJECTS:START -->
