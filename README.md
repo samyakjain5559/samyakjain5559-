@@ -12,7 +12,6 @@ DevOps tools: Bamboo, Jenkins, Git, Docker, Kubernetes.
 
 ### 📈 My Github Statistics
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=samyakjain5559&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=samyakjain5559)
 
 ### 📕 Some of My Work!
 <!-- PROJECTS:START -->
