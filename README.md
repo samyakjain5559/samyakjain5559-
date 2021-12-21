@@ -1,20 +1,20 @@
 ## 👋 Hi there, I'm Samyak
 ### 🧑🏽 About Me
-My name is Samyak Jain and I love coding. I am a 4th-year Computer Engineering student with a GPA of 3.8/4.0 in this current semester. I was awarded multiple awards for being among the top 1% of the class, which I am very proud of. I’ve worked with multiple dev-ops tools such as Bamboo, Jenkins, Git, Docker, Kubernetes, Veracode, SonarQube. I am proficient in developing applications using programming languages such as Java, C++, C, react native, SAS,Python,Node.js, Appium, Verilog, ARM assembly language, and Java.
+> My name is Samyak Jain and I love coding. I am a 4th-year Computer Engineering student with a GPA of 3.8/4.0 in this current semester. I was awarded multiple awards for being among the top 1% of the class, which I am very proud of. I’ve worked with multiple dev-ops tools such as Bamboo, Jenkins, Git, Docker, Kubernetes, Veracode, SonarQube. I am proficient in developing applications using programming languages such as Java, C++, C, react native, SAS,Python,Node.js, Appium, Verilog, ARM assembly language, and Java.
 ### 💻 Current Job Title
-Software Developer at Bank of Montreal
+> Software Developer at Bank of Montreal
 ### 🧑🏽‍💻 Proficiency
-Database Management Languages: MATLAB, Node.js, SQL.\
+> Database Management Languages: MATLAB, Node.js, SQL.\
 Computer Languages: MySQL, C, C++, Java script, Java, Python, react-native, NodeJS, ReactJS, SQL query, Eiffel.\
 Simulation Software: AutoCAD.\
 Java FrameWork: Maven, Spring, SpringBoot.\
 DevOps tools: Bamboo, Jenkins, Git, Docker, Kubernetes.
 
 ### 📈 My Github Statistics
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=samyakjain5559&show_icons=true)
+> ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=samyakjain5559&show_icons=true)
 
 ### 📕 Some of My Work!
-<!-- PROJECTS:START -->
+> <!-- PROJECTS:START -->
 - [Maven Projects](https://github.com/samyakjain5559/Maven_Projects)          
 - [Docker Projects](https://github.com/samyakjain5559/Docker_Projects)
 - [Angular Projects](https://github.com/samyakjain5559/Angular_Projects)          
@@ -27,6 +27,6 @@ DevOps tools: Bamboo, Jenkins, Git, Docker, Kubernetes.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+> [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/samyak-jain/
