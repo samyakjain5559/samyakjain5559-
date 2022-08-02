@@ -2,7 +2,7 @@
 ### 👦🏽 About Me
 My name is Samyak Jain and I love coding. I am a Computer Engineering graduate with a overall GPA of 3.8/4.0. I was awarded multiple awards for being among the top 1% of the class, which I am very proud of. I’ve worked with multiple dev-ops tools such as Bamboo, Jenkins, Git, Docker, Kubernetes, Veracode, SonarQube. I am proficient in developing applications using programming languages such as Java, C++, C, react native, SAS,Python,Node.js, Appium, Verilog, ARM assembly language, and Java.
 ### 💻 Current Job Title
-Full-Stack Software Developer at IBM (International Business Machines)
+Lead Full-Stack Software Developer at Purolator
 ### 🧑🏽‍💻 Proficiency
 Database Management Languages: MATLAB, Node.js, SQL.\
 Computer Languages: MySQL, C, C++, Java script, Java, Python, react-native, NodeJS, ReactJS, SQL query, Eiffel.\
