@@ -11,7 +11,7 @@ Java FrameWork: Maven, Spring, SpringBoot.\
 DevOps tools: Bamboo, Jenkins, Git, Docker, Kubernetes.
 
 ### 📈 My Github Statistics
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=samyakjain5559&show_icons=false&bg_color=00000000)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samyakjain5559&layout=compact)
 
 ### 📕 Some of My Work!
 <!-- PROJECTS:START -->
